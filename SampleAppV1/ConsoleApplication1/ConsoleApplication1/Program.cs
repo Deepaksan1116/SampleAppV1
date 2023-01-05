@@ -13,7 +13,10 @@ namespace ConsoleApplication1
 
         }
         #region Add two numbers
-      
+        public static int Add_two_numbers(int number1,int number2)
+        {
+            return number1 + number2;
+        }
         #endregion
 
         #region Subtract two numbers
